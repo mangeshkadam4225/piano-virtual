@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Piano CV",
+  "description": "Computer Vision powered Virtual Piano using real-time hand & fingertip tracking and paper keyboard detection",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
